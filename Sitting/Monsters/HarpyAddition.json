@@ -1,0 +1,33 @@
+{
+    "IDname": "Harpy",
+    "Addition": "Yes",
+    "skillList": [""],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [],
+    "combatDialogue": [
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": [ "|f|ChangeImageFor|/|Excited Blush|n|'Is my scent overwhelming you?'",
+                        "|f|ChangeImageFor|/|Lewd|n|'Hmmm... We should probably fuck soon.'",
+                        "|f|ChangeImageFor|/|Clueless|n|'Ahhh...♥ What was I supposed to do after knocking you down again...?'",
+                        "|f|ChangeImageFor|/|Lewd|n|'Whoa... This feels great...♥'"]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

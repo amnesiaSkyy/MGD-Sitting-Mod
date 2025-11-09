@@ -1,0 +1,138 @@
+{
+    "IDname": "Matango",
+    "Addition": "Yes",
+    "skillList": ["Mushroom Topping", "Fungal Facesitting", "Fungal Facesitting", "Charm Spores", "Mushy Face Press"],
+    "perks": [""],
+        "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Matango Victory Sit",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": [""],
+            "theScene": ["Speaks",
+                         "'Ah, did-did you run out of breath?'",
+                         "Speaks",
+                         "'I'm so sorry! I got so carried away, and you felt so good, and-'",
+                         "The anxious mushroom girl carries on as your mouth continues to lazily lap at her gray, pulsing pussy.",
+                         "'I can keep you safe for a bit to let you get your strength back if that'll make it up to you.'",
+                         "As the Matango goes to release you from her restrictive thighs, a flood of warm juices mixed with her pink spores flows out of her, directly into your mouth.",
+                         "Speaks",
+                         "'Eek, what did I just leak? Was that my love spores?'",
+                         "As the juices flow through you, It becomes hard to see for a moment, and as your head begins to fuzz with lust, it becomes almost impossible to think about anything other than her taste.",
+                         "The Matango's roots begin to slowly lower you to the ground, but before you get too far away from her you lunge your face at her pussy, burying your tongue back into her warm lips.",
+                         "Speaks",
+                         "'Kyahhh!!♥ What are you doing?! Did my spores get you that hard?'",
+                         "Her worried screams fall on deaf ears as you work your fingers around her pussy lips, parting them allowing you to penetrate deep inside her with your tongue.",
+                         "The Matango moans as you flick your tongue about in the depths of her pussy, occasionally shivering in pleasure.",
+                         "After moments of deep licking with your tongue you pull back to the entrance of her pussy and begin licking at her clit, causing an instant reaction from the grey girl.",
+                         "MonsterOrgasm", "1",
+                         "Speaks",
+                         "'Ahhhh!♥'",
+                         "The Matango releases another wave of juices into your mouth as she is brought to orgasm by your worshipful tongue. As you continue licking through her orgasm your dick begins to ache, and her moans pushes you over the brink",
+                         "PlayerOrgasm", "1",
+                         "As you fire off a load into the roots of the Matango something in her brain seems to switch on, as she places her hands around your head at the base your neck.",
+                         "Pressing you away for a moment the Matango looks at you with a lust filled grin, she slowly turns around, showing off her petite, yet sensual ass.",
+                         "As she finishes turning around she releases you from her grasp, and she uses her hands to spread her ass cheeks apart, revealing a small puckered hole.",
+                         "Speaks",
+                         "'You've already been so diligent at worshipping me, how about you lick somewhere else?♥'",
+                         "Without needing further provocation you lunge at the short mushroom girl's ass, burying into it as you place kisses and licks around the outside of her cheeks.",
+                         "The Matango moans as you slowly work over her entire ass with your tongue, and as you reach her tight asshole her panting has increased drastically.",
+                         "You take a finger and press it into her asshole, gently stretching it before you gently take your tongue and press it into the tight fleshy hole.",
+                         "Your actions seem to break the Matango, as she takes both her hands, and press them into the back of your head and press your face directly against her ass. Your tongue winds up burying deeper and her quivering moans of pleasure reverberate through you and you feel your cock fire off again.",
+                         "PlayerOrgasm", "1",
+                         "Weakening slightly, your tongue starts to pull back and you struggle against the mushroom girl. However, you find that you now lack the strength to resist against her and are at her mercy as she continues to use her ass to ride your face.",
+                         "PlayerOrgasm", "1",
+                         "You find it shameful for a second, but as the petite mushroom girl continues to dominated you, you can't help but feel great pleasure being subservient to her. Her ass rubbing against your face and the sensation on your tongue continues to arouse you.",
+                         "After several minutes of using your tongue for pleasure the Matango cums again, and she finally releases your head from her grasp. Gasping for fresh air you fall back onto your butt and take several deep breaths, unable to do anything else.",
+                         "Speaks",
+                         "'Wow, I've never felt anything quite like that.♥'",
+                         "'Oh geez, I tired you out more than I helped you didn't I? I'm so sorry.'",
+                         "Speaks",
+                         "'But...if you ever want to do this again I'd appreciate the change to blow off some steam again.♥'",
+                         "The Matango winks at you as your vision darkens, exhaustion overtaking you. You await your return to town...",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "ChangeFetish",
+                         "Ass",
+                         "5"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Fungal Facesitting",
+            "theText": ["'I-If you push me away it won't hurt my feelings... R-Really...'",
+                        "'I hope this feels good for you.'",
+                        "'T-This feels so weird, but I can't help myself'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Mushroom Topping",
+            "theText": ["'I-I would appreciate a bit more tongue? I hope that wasn't too forceful!'",
+                        "'Make sure to lick up the juices so you don't drown under me, okay?'",
+                        "'Maybe I should do this with people more often.'"]
+        },
+        {
+            "lineTrigger": "HitWith",
+            "move": "Pussy Worship",
+            "theText": ["'Y-You're making me want your cock more and more...♥'",
+                        "'You're gonna make my head spin, but I'm supposed to do that you!'",
+                        "'I-I don't ever want this to end.♥♥'"]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["'AHH?!♥'",
+                        "'Uhm, is my butt soft enough?'",
+                        "'Are...are you sure you like that?'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": "Fungal Facesitting",
+            "theText": ["As the Matango mounts you, you cant help but cum at the thought of being dominated by the meek mushroom girl.",
+                        "'Oh geez, I'm so sorry, you weren't supposed to cum just yet!'",
+                        "'Please make sure you save some for my pussy.♥'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": "Mushroom Topping",
+            "theText": ["Trembling with pleasure, you ejaculate as the mushroom girl grinds her pungent pussy into your mouth.",
+                        "The deep fragrance and velvety texture of the Matango's pussy sends waves of pleasure through you as you cum underneath her.",
+                        "Your cock throbs with ecstasy as you blow your load onto her pure white skin before being absorbed by her. 'Eeek!♥ Uhm, ah, could you maybe put your dick in my p-pussy?'"]
+        },
+        {
+            "lineTrigger": "StanceStruggle",
+            "move": "Face Sit",
+            "theText": ["You attempt to break free of the tangling roots that keep you under the Matango's pussy..."]
+        },
+        {
+            "lineTrigger": "StanceStruggleFail",
+            "move": "Face Sit",
+            "theText": ["But the vines simply tighten, keeping you trapped.",
+                        "But the Matango gently runs her fingers over your head and through your hair, making you reconsider your struggles.",
+                        "But the deep, vegetable taste of the Matango's pussy keeps you coming back for more licks, and you remain under her."]
+        },
+        {
+            "lineTrigger": "StanceStruggleComment",
+            "move": "Face Sit",
+            "theText": ["'Huh, were you trying to escape? Is it that bad down there??'",
+                        "'I thought you would like it down there? Why are you resisting so much?'",
+                        "'Not yet, I just want to have fun for a little bit longer please.'"]
+        },
+        {
+            "lineTrigger": "StanceStruggleFree",
+            "move": "Face Sit",
+            "theText": ["And manage to free yourself and return to a fighting position!"]
+        }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

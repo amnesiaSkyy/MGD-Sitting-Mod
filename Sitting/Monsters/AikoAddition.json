@@ -1,0 +1,144 @@
+{
+    "IDname": "Aiko",
+    "Addition": "Yes",
+    "skillList": [ "Cushiony Tomb", "Tucked in Deep", "Heated Cushion", "Snow Burial", "Frosted Depths"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Heated Face Sitting",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Aiko"],
+            "theScene": ["In the warm confines of Aiko's kimono, you sputter out your last orgasm and stop struggling against her plush, soft ass.",
+            "ChangeImageLayer", "Expression","1", "AraAra",
+                         "Speaks",
+                            "Oh dear, it seems like someone has finally given up. Don't worry my dear, I'll keep you nice and warm.♥",
+                         "Aiko adjusts the kimono's waist belt so that it falls around the back of your head before tightening it back up, sending your face to be sealed against her large behind. Aiko giggles as you don't resist, and sways her hips from side to side, dragging your head around with it.",
+                         "ChangeImageLayer", "Expression","1", "Kiss",
+                         "Aiko then pulls on the sides of her ass cheeks with one of her hands, and yanks on her waist belt again so that you are fully submerged by her ass, and you can feel the heat radiating off her body as it works its way through your body down from your face.",
+                         "The heat begins to slow your thoughts, and soon your mind can only think of Aiko's ass and how soft it feels as it rubs against your face as Aiko shifts from one foot to the other. You can't pull your head back, and so you start to lean forward against Aiko's wonderful butt.",
+                         "Aiko lets out another giggle as she feels you lean in closer to her ass, and she starts to shift her hips from side to side to feel her butt massage and grind against you. The sensation of her plump ass cheeks rubbing against you is heavenly, and you sigh as you let Aiko take control.",
+                         "The heat continues to flow through your body, and as the wonderful, perfumed scent of Aiko's body starts to pump into your nose you weakly place your hands on the back of Aiko's thighs and begin to plant kisses all over the crack of Aiko's ass.",
+                         "Aiko is shocked at this development for a moment, before reaching a hand back and petting your head through her kimono as she smiles warmly. Your lips continue to trace a line up and down her ass crack as she revels in your obedient worship of her body.",
+                         "ChangeImageLayer", "Expression","1", "Pleasured",
+                         "Each kiss that you plant on the warm body of Aiko drives your mind further and further into the depths of pleasure, as your lips struggle to pull back more and more after each kiss.",
+                         "After a while, you feel your body become too sluggish to pull back from kissing Aiko's bountiful ass, and your lips remain planted against her ass crack. Aiko continues to stroke your head as she wonders what must be going through your head, but you simply remain still.",
+                         "Finally, your body moves again as your tongue slips out and presses into Aiko's ass crack. Aiko gasps at the feeling of your tongue against her ass, but soon enjoys the sensation as you begin to drag it up and down her ass crack, savoring the cool yet earthy flavor of Aiko.",
+                         "Eventually, you make it to Aiko's asshole and she braces with anticipation as she feels your tongue press against her hole. Your tongue slides over it and for just a moment your tongue circles around her ass one last time before finally pushing into Aiko's asshole.",
+                         "ChangeImageLayer", "Expression","1", "Orgasm",
+                         "Aiko lets out a moan as her body shivers with pleasure, and her moan echoes through your mind as your tongue slowly moves in circles as you prod deeper and deeper into her asshole. The satisfaction and pleasure on her face is priceless, but trapped in her kimono you'll never know how her face looked.",
+                         "Aiko's body continues to shake with pleasure as your tongue continues to inch deeper and deeper into her body, and each movement from her continues to rub her soft ass against your face and drives you to worship her more.",
+                         "With you kneeling underneath her, Aiko rests her weight on top of you as she can't stand the pleasure anymore, and you struggle to prop up the larger woman while keeping your tongue nestled deep inside of her.",
+                         "It isn't for very long before Aiko lets out a deep moan that echoes across the frozen room. Her orgasm causes her asshole to clench and you feel your tongue being pinched as Aiko's orgasm ripples throughout her body.",
+                         "As Aiko's orgasm subsides, she crawls into her kimono and waits for you to pass out, watching over you as you return to town...",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "GameOver"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Cushiony Tomb",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Heheh.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Feel free to grab my ass.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Isn't it heavenly under my ass?'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'This should help heat you up.'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'Mmmm...♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Tucked in Deep",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Heheh.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Feel free to grab my ass.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Don't worry about dirtying my clothes.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'This should help heat you up.'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'Mmmm...♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Heated Cushion",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Heheh.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Feel free to grab my ass.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Don't worry about dirtying my clothes.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'This should help heat you up.'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'Mmmm...♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Snow Burial",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Heheh.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Feel free to grab my ass.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Don't worry about dirtying my clothes.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'This should help heat you up.'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'Mmmm...♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Frosted Depths",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Heheh.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Feel free to grab my ass.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|AraAra|n|'Don't worry about dirtying my clothes.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'This should help heat you up.'",
+            "|f|ChangeImageLayer|/|Expression|/|Base|n|'Mmmm...♥'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": ["Tucked in Deep", "Heated Cushion", "Snow Burial", "Frosted Depths"],
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|AraAra|n||f|ChangeEnergyQuietly|/|5|n||f|PlayVisualEffect|/|DoublePulse|/|white.png|n|Arousal stricken and needing release, you grab ahold of Aiko's curvy rear and bury your face into it, panting and inhaling her rich scent as your seed sprays out onto the icy floor below you as Aiko simply chuckles."]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Kiss|n|'How sweet of you.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|AraAra|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|She presses her ass against your worshipping mouth eagerly.",
+                        "|f|ChangeImageLayer|/|Expression|/|Pleasured|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|'You're making me so... Eager for you...♥'"]
+        },
+        {
+        "lineTrigger": "HitWith",
+        "move": "Pussy Worship",
+        "theText": ["|f|ChangeImageLayer|/|Expression|/|Kiss|n|'How sweet of you.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Pleasured|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|'Oh...♥ You're making me feel so... Wanted.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Pleasured|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|'You're making me so... Eager for you...♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggle",
+           "move": "Face Sit",
+           "theText": [ "[ThePlayerName] tries to free themselves from being trapped against Aiko's warm ass..."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFail",
+           "move": "Face Sit",
+           "theText": [ "But she presses more weight onto your face, keeping you in line.",
+                       "But Aiko's warm ass keeps your face too warm, and you dread feeling the cold air against your face.",
+                       "But Aiko tightens the belt of her kimono, sealing your face against her ass."]
+       },
+       {
+           "lineTrigger": "StanceStruggleComment",
+           "move": "Face Sit",
+           "theText": ["|f|ChangeImageLayer|/|Expression|/|Pleasured|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|'Ohhh!♥ Don't stop!♥'",
+           "|f|ChangeImageLayer|/|Expression|/|AraAra|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|'Please use my body to keep you warm.♥'",
+           "|f|ChangeImageLayer|/|Expression|/|Pleasured|n||f|ChangeImageLayer|/|BodyExtra|/|Blush|n|'D-Don't hold back!♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFree",
+           "move": "Face Sit",
+           "theText": [ "And manage to escape back to the chilling air."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFreeComment",
+           "move": "Face Sit",
+           "theText": [ "|f|ChangeImageLayer|/|Expression|/|Pout|n|'H-Huh? Why did you stop?' She re-adjusts her form fitting kimono with a small pout."]
+       }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

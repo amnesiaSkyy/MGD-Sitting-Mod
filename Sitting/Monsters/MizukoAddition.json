@@ -1,0 +1,36 @@
+{
+    "IDname": "Mizuko",
+    "Addition": "Yes",
+    "skillList": [""],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [],
+    "combatDialogue": [
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": [
+                          "|f|ChangeImageLayer|/|Expression|/|SmileDrunk|n|'Your mind's breaking, and you're just helping it along.'|f|ApplyStatusEffect|/|Brain Crusher|n|Worshiping Mizuko feels so good...",
+                          "|f|ChangeImageLayer|/|Expression|/|SmileDrunk|n|'Hehe, you've completely fallen in love with my ass.'|f|ApplyStatusEffect|/|Brain Crusher|n|Worshiping Mizuko feels so good...",
+                          "|f|ChangeImageLayer|/|Expression|/|SmileDrunk|n|'That's it, no more thinking.'|f|ApplyStatusEffect|/|Brain Crusher|n|Worshiping Mizuko feels so good...",
+                            "|f|ChangeImageLayer|/|Expression|/|SmileDrunk|n|'Just let your thoughts leak out of your dick.'|f|ApplyStatusEffect|/|Brain Crusher|n|Worshiping Mizuko feels so good...",
+                            "|f|ChangeImageLayer|/|Expression|/|SmileDrunk|n|'Just relax, and let your mind fade away.♥'|f|ApplyStatusEffect|/|Brain Crusher|n|Worshiping Mizuko feels so good..."
+                        ]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "IDname": "Tengu",
+    "Addition": "Yes",
+    "skillList": [""],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [],
+    "combatDialogue": [
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug|n||f|ChangeImageLayer|/|Base|/|Base|n|'You can only think of my ass and pussy, hehehe...'",
+                        "|f|ChangeImageLayer|/|Expression|/|Smug|n||f|ChangeImageLayer|/|Base|/|Base|n|'Glad to see you accept your place beneath me.'",
+                        "The Tengu lets out a moan as you ecstatically kiss at her shapely rear, with each kiss sending a jolt of pleasure through her.",
+                        "'Whoa... This feels great...♥'"]
+        },
+        {
+            "lineTrigger": "HitWith",
+            "move": "Pussy Worship",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug|n||f|ChangeImageLayer|/|Base|/|Base|n|'You can only think of my ass and pussy, hehehe...'",
+                        "|f|ChangeImageLayer|/|Expression|/|Smug|n||f|ChangeImageLayer|/|Base|/|Base|n|'Glad to see you accept your place beneath me.'",
+                        "The Tengu lets out a moan as you ecstatically kiss at the supple lips of her pussy, with each kiss sending a jolt of pleasure through her.",
+                        "'Whoa... This feels great...♥'"]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "IDname": "Minotaur",
+    "Addition": "Yes",
+    "skillList": ["Reverse Bull Riding", "Reverse Bull Riding", "Minotaur Face Bucking", "Minotaur Pussy Smothering", "Beefy Booty"],
+    "perks": [""],
+        "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Minotaur Face Fuck",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": [""],
+            "theScene": ["Gasping for breath you are momentarily released from the Minotaur as she kneels over your face.",
+                         "Speaks",
+                         "'I'm still not satisfied... you haven't made me cum nearly enough yet.'",
+                         "A lewd grin crosses her face as she once again hovers over your face and looks down at you and says,",
+                         "Speaks",
+                         "But don't worry, that's about to change right now.♥",
+                         "With your view obscured by her pussy you are hit with a deeply sweaty scent of sex. The athletic woman clearly takes pride in her scent, unique to Minotaur woman.",
+                         "Speaks",
+                         "'Try not to get addicted to my scent down there, although it does smell better than those damn cow girls!'",
+                         "With that statement finished she immediately descends onto your face, taking a loose sitting position where she props herself up with her strong arms.",
+                         "She begins to rhythmically grind her hips up and down, her pussy pressing against your face on every descent begins to drive you mad, like a treat being placed in front of you and taken away constantly.",
+                         "After moments of this you break down and begin to bob your head with her movements, keeping your face with her hips and begin to kiss at her pussy. From high above you, you hear the Minotaur begin to moan, clearly enjoying your actions.",
+                         "Speaks",
+                         "'Good boy, I love a man who knows when to be submissive. But this only means I can go harder on you!'",
+                         "With that as a warning she reaches down and grabs your head, keeping it off the ground as she sweeps one of her legs under your head, now trapping your face directly against her pussy.",
+                         "'We'll see what gives out first: your air, or my stamina! Start licking!'",
+                         "With your nose and mouth pressed into her pussy you feel that the air in your lungs is all that you have until you make her cum, so you begin licking with reckless abandon.",
+                         "As you lick away the flow of juices coming from her sex increases, and her moans begin to rumble into your body, simultaneously causing your dick to harden.",
+                         "You lick, and lick, and lick away at her pussy as she occasionally grips your hair and moans. The pressure on you is intense, and the air in your lungs is running out as you struggle to hold back passionate moans and pant into her pussy.",
+                         "Thankfully, right before you lose consciousness you feel air rush in as the Minotaur raises herself above you.",
+                         "'Don't go passing out on me, I've still gotta cum from you!'",
+                         "After taking a few more breaths she presses her pussy against you again, but with more air in you, you continue to lick deep into her pussy.",
+                         "Your renewed vigor and consistent licking causes deep moans to rumble through the Minotaur.",
+                         "After a few more moments, she crosses her other leg, now fully smothering you with her pussy, and she lets out a load cry of pleasure, and an intense wave of juices crash into your face. Her intense orgasm also sends shivers of pleasure through you, forcing you to fire out a load of cum that falls onto yourself.",
+                         "PlayerOrgasm", "1",
+                         "She begins to pant, and the legs keeping your face pressed go slack, letting you catch your breath.",
+                         "A few moments pass and it seems like she has been satisfied, and you begin to wiggle to get out from underneath her large frame.",
+                         "Almost immediately she notices your struggles, and looks down at you with a condescending grin.",
+                         "Speaks",
+                         "'Trying to run just because you made me cum once? Pathetic, I'm not gonna let you go after an experience like that.♥'",
+                         "Your struggles are cut short as your captor grabs your arms, and for a second lifts her body over your face again. The sky darkens as you see her titanic ass approaching your face.",
+                         "You take a deep breath knowing what is to come and after a moment her ass collides with your face, and her asshole lands directly in your face.",
+                         "At this point you know what you must do, and with pleasure you begin to kiss at the bountiful ass of your captor. She immediately moans at your stimulation, not used to having her ass worshipped.",
+                         "As she moans her grip on your arms weaken, and rather than trying to escape you bring yours hand to her ass, massaging her cheeks as you continue to worship her ass.",
+                         "After a few more moments of this unusual stimulation she lets out another cry, this time her energy seems to fade harder with an intense orgasm.",
+                         "She rolls off you after cumming, your breath slowly returning as her scent slowly fades from your nose, and her taste fading from your lips.",
+                         "With a snort and a wink the Minotaur stands and falls asleep, and you await your return to town...",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "ChangeFetish",
+                         "Ass",
+                         "5"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Reverse Bull Riding",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'They say it's always good to have foreplay before you fuck!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'Work that tongue down there, and I may go easy on you after.'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'Hehehe, now I've got you right where I want you.'"]
+      },
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Minotaur Face Bucking",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'If I don't feel you licking down there I'm gonna fuck your dick until it breaks!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'Hahhh,♥ I needed this!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'Heh, are your out of breath from just this? I'm not gonna take this easy on you!'"]
+      },
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Beefy Booty",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'Maybe I should put people down there more often!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'Ohhh!♥ Are you licking my ass? I didn't think you were {i}that{/i} kind of pervert.♥'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'Keep that up and you'll become my professional ass slave!'"]
+      },
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Minotaur Pussy Smothering",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'C'mon, work that tongue deeper!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'It's no use half-assing it, so just please me already!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'If you can't breathe just try smacking my ass, but that'll probably just make me smother you harder!'"]
+      },
+      {
+          "lineTrigger": "HitWith",
+          "move": "Pussy Worship",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'I-I wonder if I could cum from this...♥'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'It may not be your dick but your tongue does wonders!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|She gasps and tightly presses her pussy into your face."]
+      },
+      {
+          "lineTrigger": "HitWithA",
+          "move": "Ass Worship",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'I-I wonder if I could cum from this...♥'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|'I never thought anything but a dick could make my ass feel this good.'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|As you lick and caress her ass she lets out a low voiced snort and presses down onto your face."]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Reverse Bull Riding",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|As the Minotaur climbs onto your face her sweaty sex overwhelms your sense and you shamelessly fire a load before her pussy even touches you.",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|The Minotaur roughly grabs your hair and places herself atop your face, the act of domination turns you on immensely and you find yourself cumming before long."]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Minotaur Face Bucking",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|As the Minotaur continues to hump your face you can't help but cum to the taste of her invading your mouth.",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|The continuous riding of your face forces the athletic scented air of her nether regions into your nose, and her powerful scent combined with your helplessness arouses you into cumming.",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|The Minotaur strokes at your dick from atop your face, and the combined acts of pleasure soon have you cumming into her hand."]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Minotaur Face Bucking",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|As the Minotaur continues to press her ass into your face you can't help but cum to her invading scent.",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|As the Minotaur rides her ass into your face, the feeling of helplessness under her stimulates you into cumming.",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|The Minotaur strokes at your dick from atop your face, and the combined acts of pleasure soon have you cumming into her hand."]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Minotaur Pussy Smothering",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Pleasured|n|As the Minotaur cuts off your airflow with her pussy, you find that licking at it only turns you on more and soon fire off a load into the open air.",
+                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Is my pussy that great? Maybe I should keep you down there longer.♥'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base|n|You cum as the minotaur keeps you in a headlock, and she simply gives a hearty chuckle at your helpless state."]
+      },
+      {
+          "lineTrigger": "StanceStruggle",
+          "move": "Face Sit",
+          "theText": ["You attempt to slide out from the overwhelming strength of the Minotaur's pussy..."]
+      },
+      {
+          "lineTrigger": "StanceStruggleFail",
+          "move": "Face Sit",
+          "theText": ["'Huh, you want out or something? Too bad!' As the Minotaur slams her pussy back into your face, undoing any progress towards escape.",
+                      "With a huff the Minotaur wraps her legs around your arms, cutting off anything blocking her full weight pressing into your face.",
+                      "Noticing your struggle the Minotaur lifts herself up and brings herself crashing back down into you, her overwhelming scent rushing into you and making you stop your escape."]
+      },
+      {
+          "lineTrigger": "StanceStruggleComment",
+          "move": "Face Sit",
+          "theText": ["|f|ChangeImageLayer|/|Expression|/|Smug|n|'You only get to leave when I want you too!♥'",
+                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Aw come one, I haven't had my fill of you yet!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Just a few more hours down there, then I'll let you out.♥'"]
+      },
+      {
+          "lineTrigger": "StanceStruggleFree",
+          "move": "Face Sit",
+          "theText": ["And successfully escape from the brawny woman!"]
+      }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

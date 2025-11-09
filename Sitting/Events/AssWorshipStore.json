@@ -1,0 +1,25 @@
+{
+    "name": "Head over to Vivian.",
+    "CardType": "Event",
+    "Addition": "Yes",
+    "CardLimit": "0",
+    "Description": "",
+    "requires": [ ""],
+    "Speakers": [
+                  {
+                    "name": "Vivian",
+                    "postName": "",
+                    "SpeakerType": "Monster"
+                  }
+                ],
+    "EventText": [
+      {
+          "NameOfScene": "Learn Skills.",
+          "theScene": [
+            "SkillShopAddition",
+              "Ass Worship", "Foot Worship",
+            "EndLoop"
+          ]
+      }
+    ]
+}

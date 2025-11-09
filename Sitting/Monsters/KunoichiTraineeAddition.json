@@ -1,0 +1,170 @@
+{
+    "IDname": "Kunoichi Trainee",
+    "Addition": "Yes",
+    "skillList": ["Seiza Style Face Sit", "Seiza Style Face Sit", "Ninja Art: Bouncing Pussy", "Ninja Art: Ass Domination"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Ninja Pussy Slavery",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": [""],
+            "theScene": ["Speaks",
+                         "Hehehe, I didn't think you would be so quick to give in to my pussy...",
+                         "Speaks",
+                         "Do you have some kind of fetish for being dominated? You didn't really try hard to escape.",
+                         "Almost for emphasis she presses her pussy into your nose, the aphrodisiac perfume she wears makes your dick stiffen, almost painfully so.",
+                         "Speaks",
+                         "See what I mean? Getting hard from being sat on, your breath being toyed with, being forced to serve your superior. You are a grade-A masochist.♥",
+                         "As she continues to hover over your face with her pussy, her overbearing scent digs into your mind.",
+                         "To further drive home your helplessness, she rises up off your face for a second, just to look down and shoot you an innocent grin with a cocked head.",
+                         "You breathe deeply while her scent is off your face, but you find that you long for the pleasure of having it fill your longs, and your cock aches for the sensation in your body.",
+                         "It must show on your face how much you want her, because her face slowly creeps into a smug grin.",
+                         "Speaks",
+                         "Aww, does my little masochist want my pussy in his face again?",
+                         "Sensually she returns to her sitting position over you, with her pussy pressed into your face again.",
+                         "The comfortable heat of her body returns, and the sweet aroma of her pussy fills your lungs again, invigorating your dick which was previously losing steam.",
+                         "Losing control of yourself, you open your mouth and lick at the lips of her pussy. Their sweet taste fills your mouth instantly, and you find yourself infatuated with the taste of her.",
+                         "Speaks",
+                         "Serving your master without even needing to be asked? Your are the perfect little sex slave!♥",
+                         "Her words are muffled as her thighs press down on the sides of your head, not that you mind as you lovingly run your tongue along her pussy lips.",
+                         "Her soft texture drives you crazy, you find yourself wanting more of her. Wiggling your head in her thighs you manage to lift your head more, and as you begin to lick at her pussy again, you slip your tongue smoothly into her pussy.",
+                         "The sensation seems to perk up the demonic ninja girl, who purrs and strokes your hair as you plunge your tongue deep into her.",
+                         "You continue to piston your tongue inside her, and with each moan more juice is released into you, and the intoxication overtaking you stimulates your dick until you cannot hold back anymore.",
+                         "PlayerOrgasm", "1",
+                         "You shiver as you orgasm, firing off into nothing. As you lay tired from the ordeal, the ninja girl grabs you by the hair and continues to hump your mouth with her pussy.",
+                         "Speaks",
+                         "Now, now, I still haven't cum yet. What kind of sex slave would stop without letting his master cum?♥",
+                         "She continues to work your face, and after a while you tiredly work your tongue into her pussy again.",
+                         "The combination of her movements and the efforts of your tongue make her pelvis tense up. You brace as her thighs tighten around you, and you hear her cry out as she orgasms.",
+                         "A flood of juices flows out of her, and covers your face. She lays back, clearly satisfied for the moment with your efforts.",
+                         "Speaks",
+                         "Not bad human.♥ However, you aren't subservient to all of me yet. I want you completely addicted to me.♥♥",
+                         "Your confusion is immediately solved as she straightens up, this time shifting her body so that her toned bubble butt rests on your face.",
+                         "Speaks",
+                         "Feet, pussy, tits, our mouths, and even our asses can enslave any adventurer we come across. I wish I could take my time to break you completely, but for now have a taste of my ass.♥",
+                         "Her voluptuous ass rests on your face, the fragrance is different from her pussy, but smells pleasant regardless.",
+                         "Still intoxicated by your previous encounter with her pussy you immediately kiss at her ass, and before long you begin to tongue around her tight asshole.",
+                         "Up above you the ninja girl appears to be fighting back laughter, but is cut short by moans as you continue to worship her.",
+                         "You press your tongue deeper into her, her moans accompany her ass unconsciously clenching, nearly forcing your tongue out of her.",
+                         "Speaks",
+                         "KYAAAH! W-what? Are you actually licking my ass?",
+                         "Speaks",
+                         "You really are a broken pervert aren't you?",
+                         "You pay her no heed as you continue to pleasure her rear, and every time you pull out to kiss and caress her ass, you tongue her asshole again to send a shock of pleasure through her.",
+                         "The demonic ninja girl begins to pant as you continue to pleasure her through her ass, and soon she places her hands on the ground to steady herself.",
+                         "You increase the pace of your worship, her ass loosening from the constant stimulation, and her pants gently moving her ass only helps you pleasure her by adding variance to your movements.",
+                         "Moments pass before she finally lets out a high pitched cry, and she finally rolls off you while panting, exhaustion overtaking both of you.",
+                         "Speaks",
+                         "I'm impressed my little slave, I never thought a human could make me cum in such a manner.♥ I'll have to keep an eye out for you and try to keep you for myself next time.",
+                         "Exhausted from your endeavor under the ninja girl you offer no response, and close your eyes as you await your return to town....",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "ChangeFetish",
+                         "Ass",
+                         "5"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Seiza Style Face Sit",
+          "theText": ["'We'll see how long it takes to break you!'",
+                      "'How do you like my brand new domination technique?'",
+                      "'Learn your place and become my slave!'"]
+      },
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Ninja Art: Bouncing Pussy",
+          "theText": ["'I'll make sure my pussy grinds you into the ground!'",
+                      "'I can feel you licking down there, are you some kind of perverted masochist?♥'",
+                      "The ninja just moans as her pussy makes contact with your face, and your tongue plunges deep into the depths of her pussy."]
+      },
+      {
+          "lineTrigger": "UsesMove",
+          "move": "Ninja Art: Ass Domination",
+          "theText": ["'Is my well trained ass too much for you?♥'",
+                      "'You can't beat me! I'm gonna use my ass on you until you cant think of anything else!'",
+                      "'Do you enjoy being dominated like this? If you do keep licking my ass.♥'"]
+      },
+      {
+          "lineTrigger": "HitWith",
+          "move": "Pussy Worship",
+          "theText": ["'H-Ha! As if your tongue could make me cum...'",
+                      "'Hehe, you're a helpless perv aren't you?'",
+                      "'Are you so smitten with me you're already worshipping me?♥'"]
+      },
+      {
+          "lineTrigger": "HitWithA",
+          "move": "Ass Worship",
+          "theText": ["'Hehehe, you're complete fascinated with my body already?'",
+                      "|f|ChangeImageLayer|/|Expression|/|PleasureShocked|n|'W-Wait, hold on! T-That's my ass! EEK!♥♥♥.'",
+                      "'A-Are you that infatuated? I did'n't know humans liked butts so much!♥'"]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Face Sit",
+          "theText": ["The overwhelming sensation of having the soft, carefully kept pelvis of the ninja dominate you sends shivers of pleasure through you, soon forcing you to fire off a load of cum into the air.",
+                      "While continuing to worship the ninja girl's nether regions dominating you, you find your cock building pressure, and before long the magical perfume on the ninja girl's pussy releases your inhibition and causes you to cum."]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Ninja Art: Bouncing Pussy",
+          "theText": ["You groan underneath the demonic ninja as her pussy bounces up and down from your face, giving you fleeting chances to lick at the soft lips of her pussy.",
+                      "The [AttackerName] giggles mischievously to herself as she watches your twitching cock fire off a load of cum, all while you struggle underneath her grinding pussy.",
+                      "The demonic ninja continues to gyrate her hips, dancing just on the edge of your tongue as her magically infused juices flow down your throat and soon the pleasure spreading through you causes you to cum."]
+      },
+      {
+          "lineTrigger": "OnPlayerOrgasm",
+          "move": "Ninja Art: Ass Domination",
+          "theText": ["The pipsqueak of a ninja presses her shapely rear into your face, a pungent aroma reminiscent of powerful perfume invades your mind and overloads your brain, causing you to cum.",
+                      "As you lovingly lick and kiss at the ass of the ninja dominating you, you find your arousal at the situation growing, and soon cum at the sensation of being dominated by such a small woman.",
+                      "You moan as the demonic ninja traces her dexterous fingers through your hair, and presses her rear into your face harder as your tongue gently caressed her asshole. The combination of sensations sends a quick jolt of pleasure through you and you find yourself cumming."]
+      },
+      {
+          "lineTrigger": "StanceStruggle",
+          "move": "Face Sit",
+          "theText": ["You struggle to free yourself of the pint-sized ninja and her perfumed pussy..."]
+      },
+      {
+          "lineTrigger": "StanceStruggleFail",
+          "move": "Face Sit",
+          "theText": ["But instead she kicks you arms out to the side, and uses her sandal covered feet to keep them pinned.",
+                      "But she presses her impressive rear into your face, and the comforting scent of it is enough to keep you from resisting.",
+                      "However you can't ignore the taste of her pussy and choose to remain under her."]
+      },
+      {
+          "lineTrigger": "StanceStruggleComment",
+          "move": "Face Sit",
+          "theText": ["'Hey now! You aren't allowed to get up until you've been fully broken!'",
+                      "'I know that you're still able to please me down there, so you'll be going nowhere!'",
+                      "'You look so pathetic worshipping my pussy.♥'"]
+      },
+      {
+          "lineTrigger": "StanceStruggleFree",
+          "move": "Face Sit",
+          "theText": ["And manage to slip out from underneath the kimono of the ninja girl!"]
+      }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

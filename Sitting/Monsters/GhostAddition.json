@@ -1,0 +1,129 @@
+{
+    "IDname": "Ghost",
+    "Addition": "Yes",
+    "skillList": ["Ethereal Domination", "Spooky Pussy Press", "Ghastly Ass Power"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Ghost Face Sit Loss",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Ghost"],
+            "theScene": [ "Speaks",
+                          "Ehehehehe,♥ you're haunted now.♥",
+                          "You try to shoot a look at the milk white ghost girl, but notice that this time she's not aiming for your cock, as her spectral pussy hovers above your face.",
+                          "Speaks",
+                          "I never said which part of you was haunted.♥ And now your face is doomed to please my pussy... forever!♥",
+                          "After finishing her decree she places her hands on the side of your head to steady herself, and begins to grind her hips back and forth, pressing her pussy directly into your face and rubbing it against you.",
+                          "You struggle against her, trying to grab parts of her body to try and get her off you, but each grab attempt fails as her shifting body eludes your grasp, and her pussy in your face makes it hard to see where exactly she is.",
+                          "Speaks",
+                          "Awww, what's the matter? Am I too much for you to handle?♥ How about I show you what I can {i}really{/i} do.♥",
+                          "Her taunt is quickly followed by an arouse spell that sends an electric jolt of pleasure through your body, making your aching member stand at attention.",
+                          "The ghost chuckles as you struggle under her pussy and the power of her magic, and she takes her hands off your head as she leans back, and rests her pussy on top of your mouth.",
+                          "The magic flowing through you starts to overwrite the other parts of your brain, and the powerful scent of the ghost's pussy entices you to start licking.",
+                          "Your tongue dances delicately on the edges of her wet sex, occasionally pushing against her tight opening, teasing it to relax and let you penetrate it.",
+                          "The ghost tries to disguise a moan as a spooky noise, but you can see from this angle that she is starting to blush as your tongue ventures deeper into her, pushing into her tight pussy with slight effort.",
+                          "Once your tongue is inside her, you start to wander as you explore her depths, trying to please her completely as you try out various ways of licking at the inside of her pussy.",
+                          "Your tongue continues its journey, flicking about her depths only to return to the entrance to please her most sensitive spots.",
+                          "Her pussy remains rather cold even after several minutes of your tongue fucking her, but in spite of the cold you remain entranced and aroused by the ectoplasmic woman, who squirms under every movement of your tongue.",
+                          "Speaks",
+                          "Hnnnng,♥ it doesn't really feel fair that I'm making you pleasure me so much, so how about this!♥",
+                          "She moans through the casting of an intricate spell, before your body is wracked with an electrifying amount of pleasure, as the ghost targets you with a powerful spell.",
+                          "You gasp at the onset of pleasure, and catch a glimpse of the smug grin on the ghost's face as she manages to throw you off your groove with her magic.",
+                          "Not to be outdone by the spell running rampant through your body, you continue your licking, eager to please and outdo the spectral maiden.",
+                          "In a climactic battle between your tongue and the magic of the ghost, you both increase your desperation until finally one of you gives in.",
+                          "The ghost casts her arouse spell, entirely focused on your cock. The direct interaction with her magic overloads your stimulus centers, and you can't hold back from cumming.",
+                          "PlayerOrgasm", "1",
+                          "As you cum into the air, the ghost leans back and absorbs it all into her, a slight glow emanating from her as she consumes your semen.",
+                          "Content with her victory over you, she lifts off your face and begins to float away, leaving you to lose consciousness from exhaustion...",
+                          "ChangeSensitivity",
+                          "Mouth",
+                          "5",
+                          "ChangeFetish", "Sex", "5"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+      {
+          "lineTrigger": "HitWith",
+          "move": "Ass Worship",
+          "theText": [ "|f|ChangeImageLayer|/|Expression|/|Horny|n|'Oohhh,♪ that feels lovely.♥'",
+                       "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Mmmm...♥ I didn't know this could feel so nice.♥'",
+                       "|f|ChangeImageLayer|/|Expression|/|Smile|n|'M-Most of my butt is ethereal... But if you're enjoying yourself...'"]
+      },
+      {
+            "lineTrigger": "UsesMove",
+            "move": "Ethereal Domination",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Spooky|n|'OooooOOoo, curse you.♥'",
+                         "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Heheh, you're cursed now.♥'",
+                         "|f|ChangeImageLayer|/|Expression|/|Smug|n|'You can't resist me forever.♥'"]
+        },
+        {
+              "lineTrigger": "UsesMove",
+              "move": "Spooky Pussy Press",
+              "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Heheh, you're cursed now.♥'",
+                           "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Mmmm,♥ you feel good.♥'",
+                           "|f|ChangeImageLayer|/|Expression|/|Smug|n|'You can't resist me forever.♥'"]
+          },
+          {
+                "lineTrigger": "UsesMove",
+                "move": "Ghastly Ass Power",
+                "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Heheh, you're cursed now.♥'",
+                             "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Hehe,♥ how long can you endure this?♥'",
+                             "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Hehe,♥ soon you'll be helpless.♥"]
+            },
+
+            {
+                "lineTrigger": "StanceStruggle",
+                "move": "Face Sit",
+                "theText": [ "[ThePlayerName] tries to escape the haunting behind dominating their face..."]
+            },
+            {
+                "lineTrigger": "StanceStruggleFail",
+                "move": "Face Sit",
+                "theText": [ "But your hands pass ineffectively through her ethereal body, leaving you recoiling at the chilling sensation, and she merely giggles as she continues to bounce on your face.",
+                          "But her juices coat your face, sending a powerful chill through your body that makes all your hairs stand on end.",
+                          "But she easily uses her magic to pin your hands to your side, keeping you trapped underneath her.",
+                          "But the strong scent of her pussy allures you to remain under her, and to please her with all your might."]
+            },
+            {
+                "lineTrigger": "StanceStruggleComment",
+                "move": "Face Sit",
+                "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Stop trying to make us part so soon.♥'",
+                "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Aw,♥ don't be scared.♥ I just want to drain your balls dry.♥'",
+                "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Hehehe,♥ you can't escape from fate.♥'",
+                "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Hehe,♥ you can't push away what you can't touch.♥'"]
+            },
+            {
+                "lineTrigger": "StanceStruggleFree",
+                "move": "Face Sit",
+                "theText": [ "And pull yourself away from her ghastly pussy!"]
+            },
+            {
+                "lineTrigger": "StanceStruggleFreeComment",
+                "move": "Face Sit",
+                "theText": [ "|f|ChangeImageLayer|/|Expression|/|Spooky|n|'Curseeee youuuuu... Hehe.♥'",
+                          "|f|ChangeImageLayer|/|Expression|/|Spooky|n|'OoooOooo,♥ I'm still going to haunt youuuu.♥'",
+                          "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Hmmmm... Was I being too spooky?'",
+                          "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Aw,♥ don't be scared.♥ I just wanted to drain your balls dry.♥'",
+                          "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Hehehe,♥ you can't escape from fate.♥'",
+                          "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Parting so soon... Well, I guess I'll try again!♥'"]
+            }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

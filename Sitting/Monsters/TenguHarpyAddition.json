@@ -1,0 +1,35 @@
+{
+    "IDname": "TenguHarpy",
+    "Addition": "Yes",
+    "skillList": [""],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [],
+    "combatDialogue": [
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Is my scent overwhelming you?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'Hmmm... We should probably fuck soon.'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'Ahhh...♥ What was I supposed to do after knocking you down again...?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Happy|n|'Whoa... You're really worshipping my ass...♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|SingingExcited|n|The tengu harpy sings a soft, pleasure filled song as you worship her ass, making your manhood twitch and throb as your mind spins."
+                        ]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

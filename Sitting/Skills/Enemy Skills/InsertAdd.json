@@ -1,0 +1,18 @@
+{
+    "name": "Insert",
+    "Addition": "Yes",
+
+    "skillTags": [ ""],
+    "fetishTags": [ ""],
+
+    "startsStance": [ ""],
+    "unusableIfStance": [ "Facesitting"],
+    "requiresTargetStance": [ ""],
+    "unusableIfTarget": [ ""],
+    "removesStance": ["None"],
+
+    "restraintStruggle": [ ""],
+    "restraintStruggleCharmed": [ ""],
+    "restraintEscaped": [ ""],
+    "restraintEscapedFail": [ ""]
+}

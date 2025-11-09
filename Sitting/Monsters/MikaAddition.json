@@ -1,0 +1,147 @@
+{
+    "IDname": "Mika",
+    "Addition": "Yes",
+    "skillList": [ "Pussy Pouncing", "Facesit Sensual Grinding", "Pet The Pussy", "Tail Gripping", "Facesit Ass Grinding"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Trapped Face Sitting",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Mika"],
+            "theScene": ["ChangeImageLayer", "Expression","1", "Smug",
+                "With a last gasp into Mika's pussy, you exhaust yourself with one final orgasm before your struggles underneath her cease. Mika turns her attention down towards you and gives you a smug look.",
+                         "Speaks",
+                            "Down for the count already? But I'm barely warmed up over here!",
+                         "As if to drive home her point, Mika starts to move her ass back and forth, smearing her firm, athletic ass across your face as she taunts you.",
+                         "ChangeImageLayer", "Expression","1", "Horny",
+                         "Not finished with you yet, Mika's tail wraps around your neck and she reaches back and grabs onto your hair, holding on tightly as she presses more of her weight down onto you while pulling up on your head, drawing your face straight in between her as cheeks",
+                         "Mika lets out a soft meow as she starts to wriggle her hips back and forth, savoring the feeling of your face being ground underneath her commanding ass as she uses you to please herself.",
+                         "Mika pauses for just a moment, just to pick herself up off your face and to quickly drop back onto you again, feeling a sense of satisfaction watching your face disappear underneath her shapely rear.",
+                         "ChangeImageLayer", "Expression","1", "Lewd",
+                         "As Mika continues to pummel your face with her ass, you slowly feel your mind start to drop out from the repeated pummeling, and finally, you extend your tongue out and brush it against her ass crack. Mika stops dead in her tracks and starts to blush from what you've done.",
+                         "Mika is lost as to what to do as your fading mind continues to lick at her ass without a care in the world. Mika decides to roll with it and slowly rolls her hips forward and back, trying to work into a rhythm with your licking.",
+                         "Your faint licking slowly builds more and more as Mika's ass entices you to go faster and to fill her crack with your tongue. You oblige it without thinking and enjoy the sounds of Mika's purring as her ass pushes back against your tongue.",
+                         "The taste of Mika's body fills your mouth, the erotic sensation of your tongue brushing up and down her ass sends waves of pleasure through both of you, and Mika starts to let out small moans on top of her purring as she spirals further and further into her desires.",
+                        "ChangeImageLayer", "Expression","1", "Lewded",
+                         "Eventually, Mika starts to lift her ass off of your face, only to let it rock back down and settle its weight on top of you. Mika does this again and again, bouncing on your face and tongue as she lets out moan after moan.",
+                         "It's all you can do to keep up with her as your tongue keeps finding Mika's ass over and over again, and your aching, exhausted body keeps springing to life as Mika's ass keeps finding your face over and over again.",
+                         "Finally, Mika slams her ass down onto your face one last time, and as she does so, your tongue sticks out just enough that it brushes against her asshole and pushes through into her opening. Mika lets out a shocked gasp and turns to look back down at you as she keeps letting herself fall deeper and deeper onto your tongue.",
+                         "With your tongue wedged up Mika's ass, you slowly begin to wiggle it around, trying to expand how deep you can work your tongue into her tight ass. Mika lets a moan escape her at every movement of your tongue, and her bouncing stops as she loses herself in pleasure.",
+                         "You can feel Mika's body tensing up from pleasure as your tongue laps and batters at the walls of her ass, and it won't take much more from you before Mika reaches her limit.",
+                         "ChangeImageLayer", "Expression","1", "LewdedSilly",
+                         "Finally, Mika hits the peak of her endurance and lets out a long meowing moan as her orgasm reverberates through her body. Her ass clenches up and tightens around your tongue as you try to pull your tongue out of her ass.",
+                         "Mika curls up on top of your chest as the two of you fall asleep from exhaustion, and you let yourself be whisked away back to town...",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "GameOver"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Pussy Pouncing",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Smug|n|'You can barely see your face between my buttcheeks.'",
+            "|f|ChangeImageLayer|/|Expression|/|Beg|n|'Go ahead and put your face in my ass, nya.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Mmmmmm.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Facesit Sensual Grinding",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Amused|n|'I bet you weren't expecting this to feel so good.'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Hmhmhm.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Maybe I should squeeze tighter.'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Pet The Pussy",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Beg|n|'Meeeowwwww♥♥♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|NyaNya|n|'Nyaaaaa♥♥♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Beg|n|'Prrrrrr♥♥♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Beg|n|'Prrrrrr♥♥♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Tail Gripping",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Beg|n|'Meeeowwwww♥♥♥'",
+            "|f|ChangeImageLayer|/|Expression|/|NyaNya|n|'Nyaaaaa♥♥♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Beg|n|'Prrrrrr♥♥♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Beg|n|'Prrrrrr♥♥♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Facesit Ass Grinding",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Amused|n|'I bet you weren't expecting this to feel so good.'",
+            "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Hmhmhm.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Maybe I should squeeze tighter.'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": ["Facesit Sensual Grindinge", "Pet The Pussy", "Tail Gripping", "Facesit Ass Grinding"],
+            "theText": ["Mika grabs your hair and harshly presses her ass cheeks down around your face as you cum, the fragrant scent of her ass clawing into your nose as you breathe deeply after your orgasm.",
+                        "Mika squeals in enjoyment as you moan in pleasure, your cock twitching as your rushing orgasm paints the floor around you while she rocks her hips atop your face.",
+                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'What a good boy, purr into me.♥'"]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Beg|n|'Prrrrrr♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Nya...♥ Don't stop.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Mmm, feel up my ass to your heart's content.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Tongue my ass as much as you want.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Mmmmmm.♥'"]
+        },
+        {
+        "lineTrigger": "HitWith",
+        "move": "Pussy Worship",
+        "theText": ["|f|ChangeImageLayer|/|Expression|/|Beg|n|'Prrrrrr♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Nya...♥ Don't stop.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Mmm, feel how good my pussy is on your tongue?.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Taste my pussy as much as you want.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smile|n|'Mmmmmm.♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggle",
+           "move": "Face Sit",
+           "theText": [ "[ThePlayerName] tries to free themselves from being trapped against Mika's ass..."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFail",
+           "move": "Face Sit",
+           "theText": [ "But she simply presses herself to the ground, forcing your face directly into her pussy again!",
+                       "But she slams back down with surprising force, letting you watch her ass ripple in a mesmerizing way.",
+                       "But her tail wraps around the back of your head and presses you deeper into her ass crack."]
+       },
+       {
+           "lineTrigger": "StanceStruggleComment",
+           "move": "Face Sit",
+           "theText": [ "|f|ChangeImageLayer|/|Expression|/|Amused|n|'Maybe you should spend more time worshipping my ass and less time trying to get away from it.♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|NyaSmug|n|'What's wrong? Does it feel too good? Cum all you want, I don't mind, nya!♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Oh, you're not getting away from me that easily.♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Lewd|n|'Let your desires run wild!♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFree",
+           "move": "Face Sit",
+           "theText": [ "And manage to escape from underneath Mika's pussy."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFreeComment",
+           "move": "Face Sit",
+           "theText": [ "|f|ChangeImageLayer|/|Expression|/|NyaSmug|n|'What's wrong, you should be punishing my ass,♥ nya!♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'I can tell you want more.♥'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Amused|n|'Was that too much for you?'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'I'll catch you again soon.♥'"]
+       }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

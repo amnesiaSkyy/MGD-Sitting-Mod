@@ -1,0 +1,135 @@
+{
+    "IDname": "Lizard Girl",
+    "Addition": "Yes",
+    "skillList": [ "Mounting Perch", "Fierce Face Riding", "Mating Battle Pose", "Warrior's Bouncing", "Warrior's Grip"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Warrior's Spoils",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Lizard Girl"],
+            "theScene": ["ChangeImageLayer", "Expression", "1", "Dominant",
+                "You can feel the last bit of your strength fade from your body as you struggle and quiver underneath the Lizard Girl pinning you down, as she watches your seed splatter all around while you squirm underneath her pussy.",
+                         "Speaks",
+                            "That was magnificent, my soulmate. Now I'll take my spoils and savor every last drop, I hope you can do the same.",
+                            "ChangeImageLayer", "Expression", "1", "Loving",
+                         "The Lizard Girl briefly lifts her nether regions off of your face and you pull your head up at the same time, simply following the weight that was pressing you down until now. As your head lifts, you feel the Lizard girl's feet settle in below you, bracing your head and keeping it in place as her pussy comes crashing back down onto your face.",
+                         "As the Lizard Girl's pussy presses onto your face again, you feel the lithe woman stretching and bending forward, keeping her hips in place as she looms over your cock. Her serpentine tongue swishes and darts through the air before she finally allows herself to coil her tongue around your slowly hardening, aching cock.",
+                         "You gasp as the Lizard Girl starts to move her tongue up and down along the length of your member, and your hot breath meets with her pussy, causing the Lizard Girl to instinctively begin to move her hips up and down, grinding herself against your face.",
+                         "The pleasure flowing through you triggers another urge to moan, but as you go to open your mouth again, you slip your tongue against the pink flesh of the Lizard Girl's pussy. The sweet taste and soft feel of her pussy hits your mind and you take all the energy left in your exhausted body and continue to weakly lap at her pussy.",
+                         "ChangeImageLayer", "Expression", "1", "Smug",
+                         "The Lizard Girl feels your weak licks and smiles to herself as you continue to please her. In response, the Lizard Girl coils her tongue tighter around your cock until you let out a shocked yelp of pain that gets buried by her slick pussy pressing against you, causing your tongue to slide in deeper into her pussy.",
+                         "With your tongue deeper inside of her pussy, the Lizard Girl begins to rock back and forth, letting your tongue fuck her pussy as she breathily gasps each time it presses deep into her sweet sex.",
+                         "ChangeImageLayer", "Expression", "1", "MinorAhegao",
+                         "The Lizard Girl tries to hide her desperate enjoyment of this moment by lowering her head closer to your cock. Her tongue continues to slide up and down your member but the grip has loosened from earlier, as the Lizard Girl is lost in enjoying your tongue penetrating her.",
+                         "You strain with the energy it takes to keep your tongue out and licking the insides of the Lizard Girl, but you can't bring yourself to bring your tongue back into your mouth. You persevere and keep wriggling your tongue deep inside the Lizard Girl.",
+                         "On a deep pass through her pussy, the Lizard Girl goes rigid and moans to herself, squeezing your cock with her tongue and causing you to gasp, bringing your tongue out of her pussy. The Lizard Girl turns her head slightly to gaze at you, and gives you an apologetic nod as she turns to focus on your cock again.",
+                         "The Lizard Girl brings the tip of her tongue and slowly begins to circle around the head of your cock, savoring the shuddering of your body as you surge with pleasure. Her tongue slowly starts to dip in the opening of your cock and you gasp as she slowly begins to drag her tongue in a gentle circle.",
+                         "After you recover from the initial shock and pleasure of the Lizard Girl's actions, you bring your lips to the Lizard Girl's pussy once again and begin to trace a similar pattern against her pussy with your tongue, going no further than her entrance.",
+                         "It doesn't take long for the Lizard Girl to bring you to the brink of pleasure yet again, and your body is wracked with exhaustion as your cock spits out a few small droplets and goes limp from being overworked. Meanwhile, you don't give up as the Lizard Girl's pussy tightens up, and you feel that she is on the same precipice.",
+                         "You savor every lap your tongue does around her pussy, and the soft moans that she lets slip out renew your ambitions as her whole body tenses, and you just pray that her toe nails don't start digging into your face.",
+                         "ChangeImageLayer", "Expression", "1", "Ahegao",
+                         "The Lizard Girl lets out a deep, hissing moan as her body clenches up and her pussy starts to quiver against your tongue. The orgasm rocks through her whole body, and eventually she collapses down, no longer keeping her weight on your head as she curls up on top of you.",
+                         "You no longer have the strength to push the Lizard Girl off of you, and so you lay there and wait for exhaustion to knock you out, where you can wake up at town.",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "GameOver"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Mounting Perch",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Smug|n|'Got you now!'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'No escape now!'",
+                                      "|f|ChangeImageLayer|/|Expression|/|Smug|n|'You're all mine!'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Fierce Face Riding",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Hmmm, maybe I should take it easy on you?'",
+                        "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'I can do this all day.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Let's get a good pace going.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Mating Battle Pose",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Hmmm, maybe I should take it easy on you?'",
+                        "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'I can do this all day.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Let's get a good pace going.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Warrior's Bouncing",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Hmmm, maybe I should take it easy on you?'",
+                        "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'I can do this all day.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Let's get a good pace going.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Warrior's Grip",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Hmmm, maybe I should take it easy on you?'",
+                        "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'I can do this all day.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Let's get a good pace going.♥'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": ["Fierce Face Riding", "Mating Battle Pose", "Warrior's Bouncing", "Warrior's Grip"],
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|Unable to hold back any longer, you groan as your shoot your load, landing on the excited lizard girl's tail as she continues to grind on your face.. 'You are getting closer and closer to losing, human!♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'Go on! Lose to me!♥' She swiftly lifts and plants her pussy onto your mouth in excitement as your body cums on her tail as it swishes over your twitching cock."]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Lewd|n|'Ohh...♥ You don't play fair-♥'",
+                                    "|f|ChangeImageLayer|/|Expression|/|Lewd|n|'Mnn- If you keep doing that my legs are going to give out...♥'",
+                                    "|f|ChangeImageLayer|/|Expression|/|Lewd|n|'My hips feel like they're going to melt.♥'"]
+        },
+        {
+        "lineTrigger": "HitWith",
+        "move": "Pussy Worship",
+        "theText": ["|f|ChangeImageLayer|/|Expression|/|Smug|n|'That all you got?'",
+                     "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'Try harder!♥'",
+                    "|f|ChangeImageLayer|/|Expression|/|LovingBlush|n|'Mmmm...♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggle",
+           "move": "Face Sit",
+           "theText": [ "[ThePlayerName] tries to free themselves from the Lizard Girl's dominating pussy..."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFail",
+           "move": "Face Sit",
+           "theText": [ "But she roughly pushes her weight down harder, keeping you planted to the ground.",
+                       "But as you try to push her off your face, her tail wraps around your neck and strokes your chin, keeping you distracted and attached to her pussy."]
+       },
+       {
+           "lineTrigger": "StanceStruggleComment",
+           "move": "Face Sit",
+           "theText": ["|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'I love you too much to let you stop!♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'Where do you think you're going, soulmate?♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFree",
+           "move": "Face Sit",
+           "theText": [ "And manage to escape to fresh air!"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFreeComment",
+           "move": "Face Sit",
+           "theText": [ "|f|ChangeImageLayer|/|Expression|/|LewdDominant|n|'What's wrong? Am I too much for you, soulmate?'",
+                                    "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Get back under me, or I'm going to make you!♥'"]
+       }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

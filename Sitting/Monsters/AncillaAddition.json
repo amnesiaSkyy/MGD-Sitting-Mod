@@ -1,0 +1,132 @@
+{
+    "IDname": "Ancilla",
+    "Addition": "Yes",
+    "skillList": [ "Proper Sitting Etiquette", "Cushioned Embrace", "No Mess In Sight", "Getting Comfortable", "No Bumps Allowed"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Servicing the Maid",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Ancilla"],
+            "theScene": ["ChangeImageLayer", "Expression", "1", "Base Blush",
+                "As you finally let out one final orgasm underneath Ancilla's pussy, your struggles die down and Ancilla gently strokes your hair as you stop resisting.",
+                         "Speaks",
+                            "It seems like you've finally ceased struggling. However, that doesn't mean our time must end just yet, please make yourself of use.",
+                         "Ancilla briefly shifts her weight off of your face and just before you can wonder what is going on, a pillow is slotted underneath your head and Ancilla's thighs squeeze onto the sides of your face. You stare straight up and Ancilla's wonderfully clean and pristine pussy stares back down at you, glistening in anticipation.",
+                         "Without further delay, Ancilla lets herself go and drops her full weight onto you, pressing her pussy directly against your lips. As the warmth of her nether regions passes through your lips, you feel Ancilla adjust and shift herself, smearing and grinding her pussy against you before she is fully comfortable.",
+                         "Speaks",
+                            "I apologize, but I must insist that you do a good job, or I will not be moving.",
+                         "You struggle for just a moment, but finally you open your mouth just enough that you can get your tongue to press up against the opening to Ancilla's pussy. She seizes up for a moment as you begin to trace tiny, gentle circles around the opening of her pussy with your tongue, before giving in the pleasure and enjoying it.",
+                         "You continue to lick, forgetting the exhaustion as the sweet taste of Ancilla's pussy rolls down your tongue and past your throat. It's addictive feeling her body react to the every movement of your tongue, and you take your time to savor the feeling.",
+                         "Your tongue begins to press harder and move a little faster as you continue to circle around Ancilla's opening, like a hungry shark circling wounded prey. You've all but forgotten about your exhaustion as you feel Ancilla start to get flustered over how good your tongue feels against her pussy.",
+                         "Finally, you can't hold back as you slip your tongue deep inside of Ancilla's pussy, and you smile inwardly as you hear a small gasp escape from Ancilla's lips, only for her face to return to its same stalwart expression.",
+                         "After a few more strokes of your tongue deep inside of Ancilla's pussy, you see her reaching a hand down towards your face. You close your eyes and flinch, but are pleasantly surprised as Ancilla's hand simply runs through your hair, and gives you a small, playful scratch on your scalp.",
+                         "This gentle reassurance from Ancilla drives you harder, and you return to dutifully licking and thrusting your tongue deeper and deeper into her, eager to enjoy the taste of Ancilla for as long as you can while she pampers and plays with your hair.",
+                         "Getting into the groove of the movements of your tongue, Ancilla starts to rock her hips in tandem with you, allowing your tongue to reach even deeper inside of herself as she stops hiding her growing blush from you.",
+                         "The heavenly scent of Ancilla's pussy wafts into your nose as her hips bring her pussy forward with each thrust, and you fully lose yourself to your desires as you devote yourself to Ancilla's pussy with every lick. It's all you can do, but in your mind it feels right as you continue to lick and kiss her pussy.",
+                         "Suddenly, Ancilla's movements begin to speed up, and you struggle to keep up with the new pace. Ancilla lets out silent grunts as she seems to focus herself, and you desperately try to lick and keep your tongue buried deep inside of her.",
+                         "Finally, Ancilla's pussy compresses around your tongue and she lets out a quiet sigh of relief as her orgasm reaches your tongue, and you hungrily gulp down her juices before she rises from your face.",
+                         "Ancilla offers you a silent bow as she quickly wipes your face for you and lays a blanket over your body, freshly worn-out and bids you to rest up before you return to town...",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "GameOver"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Proper Sitting Etiquette",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'Are you comfortable?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'...♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'I will take care of you.'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Cushioned Embrace",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'Are you comfortable?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'...♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'I will take care of you.'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "No Mess In Sight",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'Are you comfortable?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'...♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'I will take care of you.'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Getting Comfortable",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'Are you comfortable?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'...♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'I will take care of you.'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "No Bumps Allowed",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base|n|'Are you comfortable?'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'...♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'I will take care of you.'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": ["Cushioned Embrace", "No Mess In Sight", "Getting Comfortable", "No Bumps Allowed"],
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base Blush|n|Ancilla presses her weight onto you as she gently massages your chest, watching you erupt into orgasm from her delicate touch. Ancilla's eyes watches your cum splatter onto the ground as she deftly cleans up every drop without lifting herself off of you."]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'...Mnn...'",
+                        "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'...Ah...'"]
+        },
+        {
+        "lineTrigger": "HitWith",
+        "move": "Pussy Worship",
+        "theText": ["|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'...Mnn...'",
+                    "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'...Ah...'"]
+       },
+       {
+           "lineTrigger": "StanceStruggle",
+           "move": "Face Sit",
+           "theText": [ "[ThePlayerName] tries to free themselves from Ancilla's neat and fragrant nether region..."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFail",
+           "move": "Face Sit",
+           "theText": [ "But she strokes your hair with a simple caress and the fight leaves your body.",
+                       "But Ancilla surprisingly slams her hips onto your face with stunning strength.",
+                       "But the soft feel of her thighs caressing the side of your head lets you melt away underneath her."]
+       },
+       {
+           "lineTrigger": "StanceStruggleComment",
+           "move": "Face Sit",
+           "theText": ["|f|ChangeImageLayer|/|Expression|/|Base Blush|n|Her face is slightly flushed.",
+           "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'...Mnn...♥'",
+           "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'You can't win."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFree",
+           "move": "Face Sit",
+           "theText": [ "And manage to escape to fresh air!"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFreeComment",
+           "move": "Face Sit",
+           "theText": [ "|f|ChangeImageLayer|/|Expression|/|Base|n|'...'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'Still resisting?'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'She stares at you with an unreadable expression on her face.'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Base|n|'You can't hold out forever.'"]
+       }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

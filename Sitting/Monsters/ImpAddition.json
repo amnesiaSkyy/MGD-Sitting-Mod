@@ -1,0 +1,33 @@
+{
+    "IDname": "Imp",
+    "Addition": "Yes",
+    "skillList": [""],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [],
+    "combatDialogue": [
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": [ "'Is my scent overwhelming you?'",
+                        "'Mmm♥ Your tongue feels so great!'",
+                        "'D-Don't stop...♥'",
+                        "'I hope I'm not getting carried away...'"]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

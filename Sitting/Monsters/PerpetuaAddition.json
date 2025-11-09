@@ -1,0 +1,47 @@
+{
+    "IDname": "Perpetua",
+    "Addition": "Yes",
+    "skillList": ["Slimy Pussy Press", "Jiggling Rear"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [],
+    "combatDialogue": [
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": [ "|f|ChangeImageFor|/|WinningBlush|n|'Thaatttt's it, you never stood a chance, you helpless pervert.'",
+                        "|f|ChangeImageFor|/|Joy|n|'I taste good, don't I?'",
+                        "|f|ChangeImageFor|/|Winning|n|'I guess my power was more overwhelming than I thought.'",
+                        "|f|ChangeImageFor|/|Joy|n|'Hahah, already my slave hmmm? Well keep at it then.'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Slimy Pussy Press",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Joy|n|'It's like you're not even trying!'",
+                         "|f|ChangeImageLayer|/|Expression|/|Winning|n|'Nobody has ever withstood this!'",
+                         "|f|ChangeImageLayer|/|Expression|/|Laugh|n|'Try not to drown in me!♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Jiggling Rear",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|WinningBlush|n|'That's it! Just let me play with your body!'",
+              "|f|ChangeImageLayer|/|Expression|/|Joy|n|'I taste good, don't I?'",
+              "|f|ChangeImageLayer|/|Expression|/|Winning|n|'Is my gooey ass too much for you?'"]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

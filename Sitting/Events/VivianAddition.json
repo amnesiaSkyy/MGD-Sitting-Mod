@@ -1,0 +1,59 @@
+{
+"name": "Head over to Vivian.",
+"Addition": "Yes",
+"Description": "",
+"Speakers": [
+  {
+    "name": "Vivian",
+    "postName": "",
+    "SpeakerType": "Monster"
+  }
+],
+  "EventText": [
+    {
+      "NameOfScene": "TalkingMenu",
+      "theScene": [
+                    "MenuAddition",
+                      "HideOptionOnRequirementFail", "RequiresSkill", "Ass Worship", "Let me be your chair!",
+                      "",
+                    "EndLoop"
+                ]
+  },
+      {
+          "NameOfScene": "Let me be your chair!",
+          "theScene": [
+            "ChangeImageLayer", "Expression", "1", "Happy",
+            "You ask Vivian if you could be her chair, supporting her hefty rear end while she runs the inn from her podium. A smile creeps up onto Vivian's face as she claps her hands together, happiness radiating from her but also a rush of lustfulness pours out from both of you.",
+            "Speaks",
+              "Oh my, that would be lovely of you. Come a bit closer and we'll get you situated into your position.",
+            "You step behind Vivian's podium and she places several plush pillows onto the ground and has you kneel in just the right position. Vivian's guidance feels so practiced and methodical, a part of you wonders if another adventurer has taken up this position with her before. Your thoughts are cut short however, as Vivian finishes her preparations and begins to turn around.",
+            "ChangeImageLayer", "Expression", "1", "SeductiveLick",
+            "Speaks",
+              "I think that's as comfy as I can make you darling, now I only hope that your face can be as comfortable for me so I can take a load off my feet.",
+            "ChangeImageLayer", "Scene", "1", "ButtSitNude",
+            "Excitement rushes through you as Vivian tests the waters by slowly pressing her ass into your face, her dress moved just enough to the side that you are pressed against her bare skin. Vivian shifts herself a few times as she attempts to get comfortable, and looks down at you one last time.",
+            "Speaks",
+              "Alright deary, I'm gonna put my full weight onto you now, so please brace yourself because I won't be standing up for quite a while.",
+            "You give a brief thumbs up to Vivian, who nods in return even though you can't see it, and she abruptly stops holding herself up and lets the entirety of her weight fall onto your face. Surprisingly enough, you manage to hold fast as the initial surprise of the weight puts pressure across your neck and spine.",
+            "You would take a moment to marvel at your own capabilities, but as Vivian starts to attend to some of the paperwork and guests that start to move through the inn you begin to feel every shift and movement of her body. Her ass engulfs your face rather easily, and the few guests of the inn who slip a peek past Vivian's podium marvel at seeing you as Vivian's chair.",
+            "You are oblivious to their gawking and whispers, the only thoughts that manage to occupy your mind is the ass that engulfs your face and keeps your body subservient through the pressure that bears down onto your body. Your eyes roll back under your eyelids as your cock twinges from the excitement of being so subservient, feeling the heft of Vivian's ass molding around your face.",
+            "The scent of Vivian's perfume with the earthen scent of her ass forces its way into your nose, forcing the only air that's available for you to be that of Vivian's scent. Every breath you take brings more and more of Vivian's essence into your brain, and the rest of your body starts to warm from the pleasure of being dominated by such a vivid scent.",
+            "On top of the warmth of pleasure, your face is bombarded with the sweltering heat of Vivian's voluptuous ass. The heat warms your cheeks and begins to flow through the rest of your body, helping you stay warm even as you remain motionless kneeling beneath Vivian's titanic ass.",
+            "As Vivian finishes a stack of paperwork, she raises her arms up in a stretch and lets out a sigh as she stops reaching upwards. As she takes her break, she slips her feet out of her shoes and lays a foot onto the bulge forming in your pants. The feeling causes you to catch your breath in your throat, and Vivian chuckles to herself as your body tenses up and your cock hardens and presses back against Vivian's foot.",
+            "With you sitting a bit more rigidly, Vivian ramps up the teasing as she takes her foot off your cock and adjusts her weight, lifting her ass off your face for the tiniest moment and drops herself full force back onto your face. She revels in the feeling of your body swaying and bracing as you catch her weight with only your face.",
+            "As Vivian settles back onto your face, she wriggles her ass in your face once again as she buries you deep into the crack of her ass, making her your entire world for the remainder of your shift under her ass.",
+            "Your mind surrenders to the pleasures of Vivian's ass as you continue to breath in her scent. Your mouth opens just enough for your tongue to stick out and brush up against Vivian's asshole. The feeling of your wet tongue brushing against her tight opening causes Vivian to straighten her back slightly, before she suppresses a smirk and resumes focusing on her work.",
+            "Vivian's attempts to ignore you do not faze you, as your tongue continues to lap against her anus with an intensity and vigor that makes it hard for Vivian to speak with a straight tone to guests who wander into the inn. Through gritted teeth Vivian manages to welcome the guests and lets out a sigh as your tongue continues to lick against her hole.",
+            "Your tongue finally manages to push in and penetrate through Vivian's asshole, slipping gently into her the depths of her ass as Vivian lets out a soft moan. She regathers herself as her asshole tightens around your tongue, and you find yourself unable to move it as Vivian keeps her ass clenched.",
+            "The rest of the shift moves by at a pace, with Vivian's occasional movements being the only thing that wakes you from your peaceful bliss of breathing in her scent, or the graze of her foot against your cock sending a brush of pleasure shivering up your body, until Vivian finally takes a look at the clock on the wall and realizes how much time has past.",
+            "AdvanceTime", "1",
+            "Speaks",
+              "Oh dear, been that long already? Well it won't do any good to keep you here any longer.",
+            "Vivian braces herself and raises herself off of your face, shaking her legs as she stands to work some blood back through them as a string of saliva trails from your still protruding tongue to her ass. Vivian adjusts her dress and underwear again lets you rise to your feet before handing you some money for your trouble, and bidding you farewell for now.",
+            "ChangeEros", "500",
+            "ChangeFetish", "Ass", "10",
+            "GoToTown"
+          ]
+    }
+  ]
+}

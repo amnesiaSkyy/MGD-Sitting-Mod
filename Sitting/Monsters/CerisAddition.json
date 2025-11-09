@@ -1,0 +1,141 @@
+{
+    "IDname": "Ceris",
+    "Addition": "Yes",
+    "skillList": [ "Sit, Girl!", "Infernal Rear End Pressing", "Hellhound Hip Slam", "Doggy Riding", "Doggy Dragging"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Super-heated Facesitting",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Ceris"],
+            "theScene": ["ChangeImageLayer", "Expression", "1", "Smug",
+                "Ceris lifts herself up and lands her generous ass on your face several times as she watches your cock erupt, draining you of the last of your strength.",
+                         "Speaks",
+                            "Awww poor thing, stuck and buried under my ass. Don't worry though, you're in good hands, and I'll make sure you feel real good down there.♥",
+                         "Ceris stops bouncing and presses her pussy against your mouth, gently moving her hips in circles to grind her pussy against you, letting you feel the warmth seep in through your lips.",
+                         "ChangeImageLayer", "Expression", "1", "Horny",
+                         "As the juices from her pussy slowly enter into your mouth you instinctively reach your tongue out and press it against her pussy. Ceris reflexively begins to wag her tail at high speeds as she feels your tongue press against the entrance to her pussy.",
+                         "You begin to lick in small, but desperate circles as keeping your tongue in one place starts to hurt from how overwhelmingly hot Ceris' pussy is. Ceris couldn't be happier as your tongue dances and flits across her pussy with great speed, and she lets a small moan escape her lips.",
+                         "Her pussy tastes of cinnamon and vanilla, and the warm fragrance of her pussy only compels you to lick harder and to lap up her juices more and more.",
+                         "ChangeImageLayer", "Expression", "1", "Predatory",
+                         "Ceris reaches back and grabs the top of your head with her large, furry hand and presses you deeper into the crevice of her ass as she tries to force your tongue deep into her pussy. Your tongue effortlessly slides into her slick pussy and Ceris doesn't even bother restraining herself as she lets a loud moan escape from her lips.",
+                         "Your tongue thrusts deep into Ceris' pussy as she holds you in place. You have no strength left to fight against her overwhelming might and you just let your tongue run wild inside of her body, eager to please the overpowering hellhound.",
+                         "Ceris starts to lose her sense of restrain as her hips begin to move, grinding against your tongue and tightening around it as her moans begin to echo around the area. Ceris doesn't seem to mind tho, as her tongue sticks out of her mouth as she pants with each movement of her hips.",
+                         "Like a beast in heat, Ceris furiously grinds and humps away at your face, eager to feel you deeper and deeper in her depths, but unable to get more of your tongue in her body.",
+                         "Your face remains pressed deep in Ceris' ass, forced to inhale the athletic, earthy scent of her rear end as you continue to lick for your life at her pussy. It's all you can do to keep your senses while being overwhelmed from every angle.",
+                        "ChangeImageLayer", "Expression", "1", "Pleasured",
+                         "Ceris begins to thrust her hips hard and more aggressively, lifting herself off the ground as she bounces on your face. Her grip never slips or loosens for a second, taking you for a joy ride as your head is thrown about while the hellhound continues to ride you at a dangerous rate.",
+                         "Your tongue presses as deep as it can go inside of Ceris, who hunger for more as you continue to lick and lap at her for all that you are worth.",
+                         "You give it all that you've got, squirming and pressing your tongue everywhere that it can reach, in the hopes that it can stop this burst of energy from Ceris, and you can feel her body start to tense up.",
+                         "You don't let that moment go to waste, you continue to press your tongue against the walls of Ceris' pussy, and drive her wild with pleasure as your tongue darts about inside of her, eager to finally make her cum.",
+                         "ChangeImageLayer", "Expression", "1", "Orgasm",
+                         "Finally, at the height of tension, Ceris' pussy tightens around your tongue and you can feel the hot juices of her sex begin to flow into your mouth. Ceris lets out a deep breath and finally lets your head go and you fall to the floor.",
+                         "Ceris pants heavily as the orgasm has left her weakened, and she curls up around your body as the two of you pass out from the crazy face-riding she just gave you.",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5",
+                         "GameOver"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Sit, Girl!",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Grin|n|'Got you!♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Think you can get free of {i}this?♥{/i} Hehe, do you even {i}want{/i} to?♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'I can't wait to see your face melt with pleasure.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|SmugKnowing|n|'Warm and cozy?♥ Good.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Doggy Dragging",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Grin|n|'Hmmm,♪ nice.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|LipLick|n|'We're going to have a lot of fun.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'I'll be gentle.♥'",
+            "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'I wonder how many rounds you're good for?♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Doggy Riding",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Caring|n|'You look so cute like this.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Caring|n|'There there,♥ just enjoy yourself.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'I wonder how worked up I can get you.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Hellhound Hip Slam",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LipLick|n|'Hey,♥ if you don't get away,♥ you're going to turn into a horny, needy mess.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'My body heat is getting to you,♥ isn't it?♥'",
+                    "|f|ChangeImageLayer|/|Expression|/|SmugKnowing|n|'Warm and cozy?♥ Good.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Infernal Rear End Pressing",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|LipLick|n|'Hey,♥ if you don't get away,♥ you're going to turn into a horny, needy mess.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'My body heat is getting to you,♥ isn't it?♥'",
+                    "|f|ChangeImageLayer|/|Expression|/|SmugKnowing|n|'Warm and cozy?♥ Good.♥'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": ["Infernal Rear End Pressing", "Hellhound Hip Slam", "Doggy Riding", "Doggy Dragging"],
+            "theText": ["Ceris presses her pussy down on your hard as your cock twitches in pleasure, and the heat pouring into you causes you to blow your load up into the air, where Ceris eagerly licks it up before it can hit the ground, smug satisfaction covering her face."]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["|f|ChangeImageLayer|/|Expression|/|Horny|n|'Mnngg-♥ Keep at it.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'Is it my hips or my ass you like so much?♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Horny|n|'Mmmmnn-♥ Don't stop.♥"]
+        },
+        {
+        "lineTrigger": "HitWith",
+        "move": "Pussy Worship",
+        "theText": ["|f|ChangeImageLayer|/|Expression|/|Horny|n|'Mnngg-♥ Keep at it.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|LipLick|n|'All mine.♥'",
+                        "|f|ChangeImageLayer|/|Expression|/|Horny|n|'Mmmmnn-♥ Don't stop.♥"]
+       },
+       {
+           "lineTrigger": "StanceStruggle",
+           "move": "Face Sit",
+           "theText": [ "[ThePlayerName] tries to free themselves from Ceris' overwhelmingly hot nether regions..."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFail",
+           "move": "Face Sit",
+           "theText": [ "But she simply presses herself to the ground, forcing your face directly into her pussy again!",
+                       "But the heat coming off of Ceris keeps you too weak to force the hellhound off of you.",
+                       "But Ceris simply grips your hair and slams her ass into your face, knocking you back down to the ground."]
+       },
+       {
+           "lineTrigger": "StanceStruggleComment",
+           "move": "Face Sit",
+           "theText": [ "|f|ChangeImageLayer|/|Expression|/|Seductive|n|'You're not getting away that easy.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Smug|n|'Just lay back and enjoy.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|SmugKnowing|n|'You'll get used to the heat.♥'",
+                                        "|f|ChangeImageLayer|/|Expression|/|LipLick|n|'It's fun watching you struggle.♥'"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFree",
+           "move": "Face Sit",
+           "theText": [ "And manage to escape to fresh air!"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFreeComment",
+           "move": "Face Sit",
+           "theText": [ "'Oh? Was it too much for you?'",
+                     "'Hmmm, I'm sorry but I need you back down there.♥'",
+                     "'Well maybe now you'll be much more inclined to fuck me.♥'",
+                     "'I guess not even you could handle an ass this powerful.♥'"]
+       }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}

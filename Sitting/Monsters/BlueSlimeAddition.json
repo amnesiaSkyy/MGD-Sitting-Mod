@@ -1,0 +1,139 @@
+{
+    "IDname": "Blue Slime",
+    "Addition": "Yes",
+    "skillList": ["Jiggling Rear", "Slimy Pussy Press", "Slimy Face Sit", "Gooey Face Grind"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Blue Slime Face Sit Loss",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": [""],
+            "theScene": [ "The blue slime looks down at you as you struggle under her gelatinous form, tilting her head to one side as her eyes twinkle with surprise for a brief moment.",
+                          "Speaks",
+                          "Ehhhhhh? You're tired already?",
+                          "She lifts herself off your tired form, and seeing that you are still conscious she lets out a playful giggle and lowers her pussy back onto you.",
+                          "Speaks",
+                          "I don't think you're that tired. C'mon and step it up!",
+                          "She squirms, shifting her light, fluid frame until your head starts to sink into her nether regions.",
+                          "Speaks",
+                          "Uh oh, looks like you gotta please me now if you don't wanna drown!♪",
+                          "Her last few words are accentuated by a playful bounce, but all that gets through to you is muffled words followed by the jello like prison surrounding your head jiggling.",
+                          "You start licking at her sex, while desperately digging your fingers into her gelatinous mass to pull her away from you, but your hands soon become restrained in her abdomen.",
+                          "ChangeImageLayer", "Expression", "1", "Lewd",
+                          "Speaks",
+                          "Oh? Trying to get away, huh? Looks like you aren't making a ton of progress.",
+                          "She sinks lower, forcing more of your face into her nether regions and submerging most of your head at this point.",
+                          "Having been denied air for several moments now, the realization comes in that this slime will not free you until she reaches a climax, but the current efforts of your tongue are proving fruitless.",
+                          "You redouble your efforts, licking furiously at every bit of the slime girl that surrounds your face. The texture of her on your tongue feels strange, but she has a sweet taste to her that is reminiscent of frosting.",
+                          "Your efforts don't go unnoticed, as the slime girl reacts at every lick against her body, shivering and shifting the slime around you, but she remains firmly in place.",
+                          "Speaks",
+                          "Ahhh!♪ That's it, keep going!",
+                          "As she moans to you, you feel her gelatinous hands place themselves on your cock, gently stroking as she squirms on your face.",
+                          "Her hands feel cool and soothing on your aching cock, but it is difficult to enjoy as you feel the air in your body start to run out, and your movements become sluggish, and your tonguing efforts slow.",
+                          "Her hand motions speed up, with some slime crawling down your member and filling your balls as the blue slime starts draining the remaining cum from your balls.",
+                          "Speaks",
+                          "Ahhhh.♥ At least I got a little meal before I finished you off.♥",
+                          "Her hands keep going, using every bit of the slime surrounding your cock to please you until you involuntarily cum, which is quickly devoured by the seeking slime already in your balls.",
+                          "PlayerOrgasm", "1",
+                          "As she pulls her slimy hands away from your cock you finally run out of air, and just before you lose consciousness you feel the slime dismount from your face, as she looks at you with a cheerful, yet worried expression.",
+                          "Speaks",
+                          "Oh gosh, I'm sorry if I actually hurt you! Get well soon and feed me again.♥",
+                          "With that in your mind you slip from consciousness, awaiting your return to church.",
+                          "ChangeSensitivity",
+                          "Mouth",
+                          "5",
+                          "ChangeFetish",
+                          "Sex",
+                          "5"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+      {
+          "lineTrigger": "HitWith",
+          "move": "Ass Worship",
+          "theText": [ "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Do I taste good?'",
+                      "|f|ChangeImageLayer|/|Expression|/|Shy|n|'Eh? Are you trying to drink me? I-It feels weird...♥'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Ahhh...♥ Uhm, don't forget to breathe.♪'"]
+      },
+
+      {
+            "lineTrigger": "UsesMove",
+            "move": "Slimy Face Sit",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Ahahah!♪'",
+                         "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'This is going to be so much {i}fun{/i}!♪'",
+                         "|f|ChangeImageLayer|/|Expression|/|Smile Blush|n|'I've got you now!♪"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Gooey Face Grind",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'I bet you're already hooked on this, right?'",
+                         "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Let's get you nice and cozy.♪'",
+                         "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'Just gotta get you reaaal deep in there.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Slimy Pussy Press",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'I bet you're already hooked on this, right?'",
+                         "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I won't need my legs for this.♪'",
+                         "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'C'mon, just give me a taste!♪'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Jiggling Rear",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'I bet you're already hooked on this, right?'",
+                         "|f|ChangeImageLayer|/|Expression|/|Excited|n|'Oh? Wow! look at my butt jiggle!'",
+                         "|f|ChangeImageLayer|/|Expression|/|Smug Blush|n|'Isn't my butt super awesome?'"]
+        },
+
+        {
+            "lineTrigger": "StanceStruggle",
+            "move": "Face Sit",
+            "theText": [ "[ThePlayerName] tries to break free of his slimy prison..."]
+        },
+        {
+            "lineTrigger": "StanceStruggleFail",
+            "move": "Face Sit",
+            "theText": [ "But her jellowy behind firmly clings to your face as she presses herself down against it, keeping you stuck to her!",
+                        "But her slimy body tightly restrains you, keeping you firmly in place despite your resistance!",
+                        "But her sticky goo keeps you locked in place despite your best efforts to escape them while she teases your face with her sticky pussy." ,
+                        "But as you try to push her away, your hands sink into her body and get stuck!"]
+        },
+        {
+            "lineTrigger": "StanceStruggleComment",
+            "move": "Face Sit",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Ahaha!♪'",
+            "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Come on! Let's keep going!'",
+            "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'I'm going to milk out all your cum if you don't get free!♪'",
+            "|f|ChangeImageLayer|/|Expression|/|Excited Blush|n|'Huh? Why would you want to stop?'"]
+        },
+        {
+            "lineTrigger": "StanceStruggleFree",
+            "move": "Face Sit",
+            "theText": [ "And breaks free from the gooey pussy!"]
+        },
+        {
+            "lineTrigger": "StanceStruggleFreeComment",
+            "move": "Face Sit",
+            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Heyyy, get back here!'",
+                      "|f|ChangeImageLayer|/|Expression|/|Base Blush|n|'Eh? You don't want to feel super good?'"]
+        }
+    ],
+    "victoryScenes": [
+        {
+            "NameOfScene": "",
+            "move": "",
+            "stance": "",
+            "includes": [""],
+            "theScene": [
+            ""
+            ],
+            "picture": ""
+        }
+    ],
+    "pictures": [
+
+    ]
+}

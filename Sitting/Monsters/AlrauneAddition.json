@@ -1,0 +1,138 @@
+{
+    "IDname": "Alraune",
+    "Addition": "Yes",
+    "skillList": [ "Peachy Perch", "Flower Press", "Flower Press", "Pink Punisher"],
+    "perks": [""],
+    "ItemDropList": [],
+    "lossScenes": [
+        {
+            "NameOfScene": "Fly Trap",
+            "move": "",
+            "stance": "Face Sit",
+            "includes": ["Alraune"],
+            "theScene": ["Gasping for breath underneath the voluptuous flower lady, you shoot your last load, draining you of your ability to fight back.",
+                         "As your resistance to her stops, the Alraune slows her movements from on top of you, and lets out a mischievous giggle",
+                         "Speaks",
+                         "Oh, giving up already deary? That won't do one bit, you haven't even begun to pleasure me.♥",
+                         "With that the Alraune slowly begins to draw your entire body into her flower, before the petals begin to curl up and trap you inside.",
+                         "As the last bits of light fade from around you, you begin to notice the air thinning, leaving you to only breathe in the rosy scents of the Alraune.",
+                         "Moments pass before the Alraune guides her hands down toward you and forcefully press your face against her wet sex.",
+                         "Speaks",
+                         "Fufufu, I hope you didn't think you were done? I've got you trapped down there for as long as I want.♥",
+                         "Speaks",
+                         "Now if you want to get some air I want you to continue pleasing me, so start licking.♥",
+                         "Her words stick in your mind, even though you know you'll be warped back to the church eventually you can't help but begin to carefully lick at the cherry pink pussy of the Alraune.",
+                         "The Alraune moans as you lick into her pussy, pushing past her supple pussy lips. The moan reverberates throughout the enclosed space and causes you to redouble your efforts.",
+                         "You continue to lick, the honey sweet juices of the Alraune's pussy being lapped up by your tongue trickle down your throat and you begin to feel the intoxicating effects of the Alraune's nectar.",
+                         "Wanting more of her nectar you pierce your tongue deep into her pussy, and as another moan echoes throughout the confined spaces you feel the Alraune orgasm on your tongue.",
+                         "As the Alraune orgasm, a rush of thick, honey-like juices flows into your mouth as you begin to feel drunk of the nectar.",
+                         "The Alraune pants as she recovers from her orgasm, and begins to stroke through your hair as she tries to recompose herself.",
+                         "With your task inside her flower done you begin to pass out from the heat and lack of air, and brace for the splash of water...",
+                         "ChangeSensitivity",
+                         "Mouth",
+                         "5",
+                         "ChangeFetish",
+                         "Sex",
+                         "5"],
+            "picture": ""
+        }
+    ],
+    "combatDialogue": [
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Peachy Perch",
+            "theText": ["'Well, if you won't fuck me yet, maybe I'll have you spend some time with my pussy.♥'",
+                        "'Make sure you struggle down there sweetheart, I want to feel you against my pussy.'",
+                        "'Make sure you get a good view of my ass while you're down there.♥'",
+                        "'Go ahead and start licking, I promise you'll like the taste of my honey.♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Flower Press",
+            "theText": ["'MMMMMNNH!♥ That's it my dear, keep licking right there!♥'",
+                        "'Lick until you've had your fill, and then keep going!♥'",
+                        "'I hope you can keep up with me, because I could have you do this for days.♥'",
+                        "'They say to stop and smell the flowers, but isn't it much better to lick them?♥'"]
+        },
+        {
+            "lineTrigger": "UsesMove",
+            "move": "Pink Punisher",
+            "theText": ["'TThey say stop and smell the roses, but it's good to see you take it literally.'",
+                        "'Keep going sweetheart, I promise there's light at the end of my tunnel.♥'",
+                        "'Keep going until you've had your fill, I promise my ass will be here for you.♥'"]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": "Peachy Perch",
+            "theText": ["'Oh dear, and I had just gotten on top of you. Am I simply that good?♥'",
+                        "'Do your best to hold out longer love, I want so much more of you!♥'",
+                        "As the Alraune's pussy descends on you, you are immediately overtaken with an ultra sweet scent that quickly overloads your mind and in moments you shoot out an explosive load of cum."]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": "Flower Press",
+            "theText": ["'There you go, sweety. Keep licking now, or I'll stop this ride.♥'",
+                        "'How marvelous, it makes me wanna fuck you to see how good your cum feels inside me.♥'",
+                        "The Alraune bites her lip as she watches your twitching dick fire out several bursts of white cum. As she watches she slowly strokes the base of your penis, luring out the last of your orgasm."]
+        },
+        {
+            "lineTrigger": "OnPlayerOrgasm",
+            "move": "Pink Punisher",
+            "theText": ["'My, my!♥ Who know you were so addicted to my ass?'",
+                        "'Maybe I should pull my petals up and keep you in there forever!♥'",
+                        "The Alraune bites her lip as she watches your twitching dick fire out several bursts of white cum. As she watches she slowly strokes the base of your penis, luring out the last of your orgasm."]
+        },
+        {
+            "lineTrigger": "HitWithA",
+            "move": "Ass Worship",
+            "theText": ["'Oh my, I didn't realize we had an ass man, well worship my ass to your heart's content dear.♥''",
+                        "'I hope you enjoy this, not many people get to taste the wonderful ass of an alraune.♥''",
+                        "The Alraune can only moan ass she reaches back and caresses your head as you worshipfully lick and kiss at her ass."]
+        },
+        {
+        "lineTrigger": "HitWith",
+        "move": "Pussy Worship",
+        "theText": ["'How submissive!♥ I hope you continue to enjoy my pussy like this!♥''",
+                    "'If you keep this up I may just try and keep you in my flower as my pussy slave.♥''",
+                    "The Alraune runs her fingers through your hair as you lick deeper into her pussy, a deep moan rumbles through her body that you can feel on your tongue."]
+       },
+       {
+           "lineTrigger": "StanceStruggle",
+           "move": "Face Sit",
+           "theText": [ "[ThePlayerName] tries to free themselves from the Alraune's flowery nether region..."]
+       },
+       {
+           "lineTrigger": "StanceStruggleFail",
+           "move": "Face Sit",
+           "theText": [ "But she simply presses herself to the ground, forcing your face directly into her pussy again!",
+                       "But the alraune simply keeps hold of your arms, rubbing them sensually across her large yet firm ass.",
+                       "But the alraune grips your hair and lowers her ass into your face, and begins to rub her sweet smelling cheeks deep into your face.",
+                       "But her overwhelming scent keeps you mesmerized, and you continue to lick at her wet sex."]
+       },
+       {
+           "lineTrigger": "StanceStruggleComment",
+           "move": "Face Sit",
+           "theText": [ "'Why do you resist? Wouldn't it be better to just lick at my pussy forever?♥'",
+                        "'Come on sweety, just let go and let me fuck your face!♥'",
+                        "'If you're a really good boy I'll let you fuck me after this.♥'",
+                        "'I haven't come yet, would you really deny your partner such pleasure?'"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFree",
+           "move": "Face Sit",
+           "theText": [ "And manage to escape to fresh air!"]
+       },
+       {
+           "lineTrigger": "StanceStruggleFreeComment",
+           "move": "Face Sit",
+           "theText": [ "'Oh? Was it too much for you?'",
+                     "'Hmmm, I'm sorry but I need you back down there.♥'",
+                     "'Well maybe now you'll be much more inclined to fuck me.♥'",
+                     "'I guess not even you could handle an ass this powerful.♥'"]
+       }
+    ],
+      "victoryScenes": [],
+    "pictures": [
+
+    ]
+}
